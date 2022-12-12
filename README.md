@@ -5,3 +5,8 @@
 
 ## [Pokemon Import](https://github.com/mcdonaldduncan/PokemonImport)
 
+## [Pokemon API](https://github.com/mcdonaldduncan/PokemonImport)
+
+## [Pokemon Visualization](https://github.com/mcdonaldduncan/PokemonImport)
+
+## [ERD & Class Diagrams](https://github.com/mcdonaldduncan/PokemonImport)
