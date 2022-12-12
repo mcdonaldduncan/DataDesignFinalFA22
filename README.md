@@ -1,4 +1,4 @@
-# DataDesignFinalFA22
+# Pokemon Sidecar
 
 ### Due to the multiple components in the project I have separated them out and provided links here.
 
