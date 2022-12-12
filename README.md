@@ -12,5 +12,5 @@ Includes: ASP.NET Core Web API, SQL Scripts for all CRUD actions, SPROCs, Views,
 ## [Pokemon Visualization](https://github.com/mcdonaldduncan/PokemonImport)
 Includes: Windows Forms APP (.NET Framework)
 
-## [ERD & Class Diagrams](https://github.com/mcdonaldduncan/PokemonImport)
+## [ERD & Class Diagrams](https://github.com/mcdonaldduncan/PokemonDiagrams)
 Includes: ERD & Class Diagrams for above projects
